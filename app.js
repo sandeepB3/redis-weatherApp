@@ -1,9 +1,8 @@
 const express = require("express");
-const https = require("https");
 const bodyParser = require("body-parser");
 const axios = require("axios");
 const redis = require("redis");
-const expire = 300; 
+const expire = 360; 
 
 const app = express();
 app.use(bodyParser.urlencoded({extended: true}));
