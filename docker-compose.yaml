@@ -1,0 +1,9 @@
+version: '3'
+services:
+  redis-server:
+    image: redis
+
+  weather-app:
+    build: .
+    ports:
+      - 3000:3000
