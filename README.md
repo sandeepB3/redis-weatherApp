@@ -8,6 +8,6 @@ Docker is an open source containerization platform. It enables developers to pac
 
 ## Hence this project is created to demonstrate these production level tech-stack.
 
-To use this project download or clone it to your device.Make sure to type npm install in your terminal.
+To use this project download or clone it to your device. Make sure to type npm install in your terminal.
 If familiar with docker you can use docker-compose up to run the web-app.
 
